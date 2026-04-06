@@ -1,4 +1,4 @@
-<h2 align="left">Oi 👋! Meu nome é Francisco Borges e sou um estudante de Ciência da computação apaixonado por tecnologia</h2>
+<h2 align="left">Oi 👋! Meu nome é Francisco Borges e sou um estudante de computação apaixonado por tecnologia</h2>
 
 ###
 
